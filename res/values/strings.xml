@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DataStorage</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="preferences">Preferences</string>
+    <string name="sqlite">SQLite</string>
+    <string name="output">Output</string>
+    <string name="close">Close</string>
+    <string name="title_activity_sql_view">SqlView</string>
+    <string name="blog_message">Blog Message</string>
+    <string name="max_blog_message">Maximum 255 characters only</string>
+    <string name="max_book_char">Maximum 70 characters only</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_preferences_storage">PreferencesStorage</string>
+    <string name="description">Description</string>
+    <string name="book_name">Book Name</string>
+	<string name="book_author">Book Author</string>
+</resources>
